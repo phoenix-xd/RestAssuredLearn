@@ -5,7 +5,7 @@ import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class APITest {
+public class x_APITest {
 
     // @Test
     public void testGetRequest() {
