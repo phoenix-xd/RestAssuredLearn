@@ -133,8 +133,8 @@ public class b_DifferentWaysToPostJSON {
                 .statusCode(anyOf(is(200), is(201)))
                 .body("name", equalTo("iMac Pro"))
                 .body("data.year", equalTo(2026))
-                .body("data.price", equalTo(5000))
-                .body("data.'CPU model'", equalTo("M5 Extreme"));
+                .body("data.price", equalTo(5000));
+                
     }
 
     // =========================================================

@@ -9,7 +9,7 @@ import io.restassured.response.Response;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 
-public class HeadersAndCookies {
+public class d_HeadersAndCookies {
 
     // =========================================================
     // GET ALL HEADERS
